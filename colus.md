@@ -45,17 +45,6 @@
 </div>
 
 ---
-
-## 🚀 Featured Project
-
-<div align="center">
-
-<a href="https://github.com/worksapces-dot/potential-invention">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=worksapces-dot&repo=potential-invention&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</a>
-
-</div>
-
 ### 🎯 SLIDE — AI-Powered Business Automation
 
 > **The ultimate Instagram automation & cold outreach platform**
